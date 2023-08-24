@@ -1,0 +1,11 @@
+{
+  "appId": "com.clark.testapp",
+  "appName": "testapp",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
